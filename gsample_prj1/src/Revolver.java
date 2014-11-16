@@ -4,6 +4,11 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * Revolver
+ * @author yamamoto
+ *
+ */
 public class Revolver {
 
 	private List<Boolean> danso;
